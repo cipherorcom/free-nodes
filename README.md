@@ -14,3 +14,6 @@ https://raw.githubusercontent.com/cipherorcom/free-nodes/refs/heads/main/base64.
 ```text
 https://raw.githubusercontent.com/cipherorcom/free-nodes/refs/heads/main/mihomo.yaml
 ```
+感谢
+----
+[beck-8/subs-check](https://github.com/beck-8/subs-check)
