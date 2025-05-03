@@ -1,5 +1,5 @@
 # free-nodes
-免费节点，想起来了就更新 (本次节点数量: 1221)<br>
+免费节点，想起来了就更新 (本次节点数量: 1563)<br>
 日更节点，群内查看
 
 ## 订阅链接
@@ -14,6 +14,39 @@ https://raw.githubusercontent.com/cipherorcom/free-nodes/refs/heads/main/base64.
 带规则mihomo
 ```text
 https://raw.githubusercontent.com/cipherorcom/free-nodes/refs/heads/main/mihomo.yaml
+```
+域名订阅
+----
+```text
+# 通用订阅
+https://subscheckoracle.isfree.pp.ua/download/sub
+
+# uri订阅
+https://subscheckoracle.isfree.pp.ua/download/sub?target=URI
+
+# mihomo/clashmeta
+https://subscheckoracle.isfree.pp.ua/download/sub?target=ClashMeta
+
+# clash订阅
+https://subscheckoracle.isfree.pp.ua/download/sub?target=Clash
+
+# v2ray订阅
+https://subscheckoracle.isfree.pp.ua/download/sub?target=V2Ray
+
+# shadowrocket订阅
+https://subscheckoracle.isfree.pp.ua/download/sub?target=ShadowRocket
+
+# Quantumult订阅
+https://subscheckoracle.isfree.pp.ua/download/sub?target=Quantumult
+
+# sing-box订阅
+https://subscheckoracle.isfree.pp.ua/download/sub?target=sing-box
+
+# Surge订阅
+https://subscheckoracle.isfree.pp.ua/download/sub?target=Surge
+
+# Surfboard订阅
+https://subscheckoracle.isfree.pp.ua/download/sub?target=Surfboard
 ```
 讨论
 ----
